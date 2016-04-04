@@ -1,4 +1,3 @@
-# Diagram
 
 READ ME
 =======
