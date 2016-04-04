@@ -3,7 +3,7 @@
 READ ME
 =======
 
-Offers you the ability to create top-down tree diagrams from an array.
+Offers you the ability to create top-down tree diagrams from an array. This is a refactored version with optional rounded corners added. 
 
 ## LICENSING ##
 
