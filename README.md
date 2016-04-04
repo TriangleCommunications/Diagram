@@ -56,6 +56,8 @@ Franklin St, Fifth Floor, Boston, MA 02110-1301 USA
 		$g->SetData($arr);
 		$g->Draw();
 ```
+![alt text](https://github.com/TriangleCommunications/Diagram/blob/master/example_diagram.png?raw=true "Diagram Example")
+
 ## ACKNOWLEDGMENTS ##
 
 Based on Diagram class by Diogo Resende, diogo@ect-ua.com, Portugal
